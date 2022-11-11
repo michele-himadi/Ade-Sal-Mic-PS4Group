@@ -1,5 +1,5 @@
 # Ade-Sal-Mic-PS4Group
 APIs:  
 Adesuwa: https://www.census.gov/data/developers/data-sets.html  
-Saloni: https://nova.bitcambio.com.br/api/v3/docs#a-public   
+Saloni: https://api.artic.edu/docs/#introduction   
 Michele: https://covidtracking.com/data/api/version-2
